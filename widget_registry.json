@@ -1,0 +1,13 @@
+{
+  "test-table.html": {
+    "brand": "BOLAVIP",
+    "table_title": "test table",
+    "file": "test-table.html",
+    "pages_url": "https://bettercollective26.github.io/BOLAVIPtf26/test-table.html",
+    "github_repo_url": "https://github.com/bettercollective26/BOLAVIPtf26",
+    "created_by": "gauthambc",
+    "created_at_utc": "2026-02-03 23:40:30 UTC",
+    "bundle_path": "bundles/test-table.html.json",
+    "has_bundle": true
+  }
+}
